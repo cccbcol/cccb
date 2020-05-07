@@ -1,10 +1,13 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
+title: PRE-UNIVERSITARIO POPULAR
 featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+subtitle: ¡Encuentra información sobre nuestras clases!
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: >-
+    Desde el año 2011 hemos trabajado por el acceso a la educación superior
+    pública. 
+  title: Preuniversitario popular
 ---
+
